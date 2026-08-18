@@ -1,12 +1,10 @@
 # Equity Research Reports
 Sell-side equity research initiating coverage on two names across contrasting sectors: AI networking infrastructure and interactive entertainment. Each report follows institutional research standards, including DCF and EV/EBITDA valuation, comparable company analysis, catalyst identification, and structured risk assessment using Bloomberg Terminal data.
 
-**Company	Rating	                 Target Price	          Upside	Report**
-___________________________________________________________________________
-Arista Networks (ANET)	         BUY	$135.66	57%	         View Report
-___________________________________________________________________________
-Roblox Corporation (RBLX)	       BUY	$70.00	94%       	 View Report
-___________________________________________________________________________
+| Company | Rating | Target Price | Upside | Report |
+|---|---|---|---|---|
+| Arista Networks (ANET) | BUY | $135.66 | 57% | [View Report](./ANET/ANET_stock_pitch_report.pdf) |
+| Roblox Corporation (RBLX) | BUY | $70.00 | 94% | [View Report](./RBLX/RBLX_Equity_Report.pdf) |
 
 # Arista Networks (ANET): 
 Investment thesis centers on Arista's leadership in AI native Ethernet infrastructure, with revenue growth driven by hyperscaler demand from Microsoft and Meta, superior EBITDA margins near 50%, and a zero-debt balance sheet supporting continued reinvestment.
